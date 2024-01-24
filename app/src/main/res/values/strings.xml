@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">class_work_02_06.2</string>
+    <string name="button1">button1</string>
+    <string name="circle">Circle</string>
+    <string name="button2">Button2</string>
+    <string name="button3">Button3</string>
+    <string name="button_3">button 3</string>
+    <string name="big_button">Big button</string>
+    <string name="france">France</string>
+    <string name="paris">Paris</string>
+    <string name="Введите_текст">Введите текст</string>
+</resources>
